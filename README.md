@@ -34,7 +34,7 @@ A feature-rich Kanban task management web application built with React, allowing
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+**1. Clone the repository:**
    ```bash
    git clone [https://github.com/AmelDev2/kanban-board.git](https://github.com/AmelDev2/kanban-board.git)
    ```
