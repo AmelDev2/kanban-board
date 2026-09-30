@@ -37,6 +37,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AmelDev2/kanban-board.git](https://github.com/AmelDev2/kanban-board.git)
+   ```
 
 **2. Navigate to the project directory: **
 ```bash 
