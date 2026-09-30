@@ -2,7 +2,7 @@
 
 A feature-rich Kanban task management web application built with React, allowing users to efficiently organize tasks, manage multiple boards, customize columns, and seamlessly drag and drop tasks across columns.
 
-🔗 **Live Preview:** [https://kanban-board-one-liard.vercel.app/](https://kanban-board-one-liard.vercel.app/)
+🔗 **Live Preview:** [https://kanban-board-one-liard.vercel.app/](https://kanban-board-one-liard.vercel.app/)[cite: 1]
 
 ---
 
