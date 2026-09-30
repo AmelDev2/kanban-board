@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "Platform Launch",
+    "columns": [
+      {
+        "id": 1,
+        "title": "TODO",
+        "tasks": [
+          {
+            "id": 1,
+            "title": "Build UI for onboarding flow",
+            "description": "Create the onboarding pages with steps and validation."
+          },
+          {
+            "id": 2,
+            "title": "Design settings and profile pages",
+            "description": "Add user profile settings tab and dark mode switch."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "DOING",
+        "tasks": [
+          {
+            "id": 3,
+            "title": "Implement kanban board drag and drop",
+            "description": "Use libraries or custom logic for moving cards between columns."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "DONE",
+        "tasks": [
+          {
+            "id": 4,
+            "title": "Setup project repository and Tailwind",
+            "description": "Initialize Vite, React, and configure Tailwind CSS variables."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Marketing Plan",
+    "columns": [
+      {
+        "id": 1,
+        "title": "TODO",
+        "tasks": [
+          {
+            "id": 1,
+            "title": "Social media content calendar",
+            "description": "Plan posts for the upcoming product launch campaign."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "DOING",
+        "tasks": [
+          {
+            "id": 2,
+            "title": "Email newsletter campaign",
+            "description": "Draft copy and design template for subscribers."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "DONE",
+        "tasks": [
+          {
+            "id": 3,
+            "title": "Competitor analysis report",
+            "description": "Analyze top 3 competitors in the market."
+          }
+        ]
+      }
+    ]
+  }
+]

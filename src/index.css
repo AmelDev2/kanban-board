@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* تعيين الخط الجديد كخط أساسي (sans) */
+  --font-jakarta: "Plus Jakarta Sans", sans-serif;
+
+
+/* تعريف أحجام الخطوط مع وزن الخط المقابل لها */
+  --text-heading-s: 0.75rem;
+  --text-heading-s--font-weight: 700;
+
+  --text-heading-m: 0.9rem;
+  --text-heading-m--font-weight: 700;
+
+  --text-heading-l: 1.125rem;
+  --text-heading-l--font-weight: 700;
+
+  --text-heading-xl: 1.5rem;
+  --text-heading-xl--font-weight: 700;
+
+  --text-body-m: 0.75rem;
+  --text-body-m--font-weight: 700;
+
+  --text-body-l: 0.8125rem;
+  --text-body-l--font-weight: 500;
+
+
+
+
+  /*تعريف الالوان كمتغيرات */ 
+  --color-main-purple: #635FC7;
+  --color-main-purple-hover: #A8A4FF;
+  --color-black: #000112;
+  --color-very-dark-grey: #1E1E1E;
+  --color-dark-grey: #2B2C37;
+  --color-lines: #3E3F4E;
+  --color-medium-grey: #828FA3;
+  --color-lines-light: #E4EBFA;
+  --color-light-grey: #F4F7FD;
+  --color-red: #EA5555;
+  --color-red-hover: #FF9898;
+}
